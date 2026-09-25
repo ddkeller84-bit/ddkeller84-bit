@@ -22,7 +22,7 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-## `> ABOUT_ME.exe`
+## `$who_am_i`
 
 ```python
 #!/usr/bin/env python3
@@ -151,9 +151,7 @@ class PragmaticBuilder:
 
 ## `> GITHUB_STATS.sh`
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ddkeller84-bit&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddkeller84-bit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ddkeller84-bit&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&text_color=C9D1D9)
 
 ---
 

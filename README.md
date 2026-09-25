@@ -8,7 +8,7 @@
      (.github/workflows/snake.yml) — see bottom of this file
 ============================================================ -->
 
-![A1XMONADTRIBE](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=A1XMONADTRIBE&fontSize=70&fontColor=00FF41&animation=fadeIn)
+![A1XMONADTRIBE](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=220&section=header&text=A1XMONADTRIBE&fontSize=70&fontColor=000000&animation=fadeIn)
 
 [![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Strategy+Architect+%E2%94%82+Venture+Builder+%E2%94%82+AI+Pragmatist)](https://git.io/typing-svg)
 
@@ -26,17 +26,15 @@
 
 ```python
 #!/usr/bin/env python3
-"""A1xMonadTribe — Sovereignty of thought. Reason, capital and unconventional thinking."""
+"""A1xMonadTribe — Aut viam inveniam aut faciam: "I will either find a way or make one.""""
 
 class PragmaticBuilder:
 
     def __init__(self):
 
-        self.name       = "A1xMonadTribe"
+        self.name       = "Dave"
 
         self.alias      = "A1xMonadTribe"
-
-        self.handle     = "@A1xMonadTribe"
 
         self.location   = "Worldwide"
 
@@ -44,11 +42,11 @@ class PragmaticBuilder:
 
         self.focus = [
 
-            "Reasoning Systems & Applied Logic",
+            "Systems & Execution",
 
-            "Autonomous Agents that Ship",
+            "Applied Artificial Intelligence",
 
-            "Capital Systems without Borders",
+            "Borderless Capital",
 
         ]
 

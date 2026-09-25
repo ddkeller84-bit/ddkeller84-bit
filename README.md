@@ -1,22 +1,32 @@
+<!-- ============================================================
+  A1xMonadTribe — GitHub Profile README
+  HOW TO USE:
+  1. Create a new repo named exactly: ddkeller84-bit
+  2. Add this file as README.md in that repo
+  3. Search this file for "TODO" and fill in your details
+  4. For the snake animation: add the snk workflow below
+     (.github/workflows/snake.yml) — see bottom of this file
+============================================================ -->
+
 ![A1XMONADTRIBE](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=A1XMONADTRIBE&fontSize=70&fontColor=00FF41&animation=fadeIn)
 
-[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Strategy+Architect+%E2%94%82+Venture+Builder+%E2%94%82+AI+Pragmatist)](https://git.io/typing-svg)
+[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Strategy+Architect+%E2%94%82+Venture+Builder+%E2%94%82+AI+Pragmatist)](https://git.io/typing-svg)
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  root@a1xmonadtribe:~# cat /etc/motd                  │
-│                                                      │
-│  "Logic, Reasoning, and Capital without borders."    │
-│                                                      │
-│  [ SYSTEM 2 ONLINE ] [ BUILD MODE: PRAGMATIC ]  [ EFFORT: MAX ]│
-└──────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  root@a1xmonadtribe:~# cat /etc/motd                            │
+│                                                                 │
+│  "Doom is above money. Doom is above desire. Doom is above all."│
+│                                                                 │
+│  [ SYSTEM 2 ONLINE ] [ BUILD MODE: PRAGMATIC ]  [ EFFORT: MAX ] │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-## `$who_am_i`
+## `> ABOUT_ME.exe`
 
 ```python
 #!/usr/bin/env python3
-"""A1xMonadTribe — Welcome to sovereignty of thought. This is where reason meets capital and conventional thinking ends."""
+"""A1xMonadTribe — Sovereignty of thought. Reason, capital and unconventional thinking."""
 
 class PragmaticBuilder:
 
@@ -62,16 +72,36 @@ class PragmaticBuilder:
 
 ## `> TECH_STACK.sys`
 
-```
-// LANGUAGES & SCRIPTING
-    TypeScript · Python · SQL · Git · JSON · Docker
+<div align="center">
 
-// FRAMEWORKS & LIBRARIES
-    Tailwind CSS + shadcn/ui · Next.js · Supabase
+**`// LANGUAGES & SCRIPTING`**
 
-// AI & AGENTIC
-    Claude · ChatGPT · Gemini · Perplexity · n8n · DeepSeek · GLM · Gemma
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2E7D32?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6E7681?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DA3633?style=flat-square&logo=git&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-8B949E?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1F6FEB?style=flat-square&logo=docker&logoColor=white)
+
+**`// FRAMEWORKS & LIBRARIES`**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1B5E20?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn_ui-C0C0C0?style=flat-square&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1F6F43?style=flat-square&logo=supabase&logoColor=white)
+
+**`// AI & AGENTIC`**
+
+![Claude](https://img.shields.io/badge/Claude-2EA043?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-6E7681?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1F6FEB?style=flat-square&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-8B949E?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-16A34A?style=flat-square&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-1B5E20?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
@@ -155,7 +185,7 @@ class PragmaticBuilder:
              with:
                github_user_name: ddkeller84-bit
                outputs: |
-                 dist/github-snake-dark.svg?palette=github-dark&color_snake=00FF41&color_dots=#0D1117,#161B22,#1F6F43,#2EA043,#3FB950
+                 dist/github-snake-dark.svg?palette=github-dark
            - uses: crazy-max/ghaction-github-pages@v4
              with:
                target_branch: output

@@ -10,7 +10,7 @@
 
 ![A1XMONADTRIBE](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=220&section=header&text=A1XMONADTRIBE&fontSize=70&fontColor=000000&animation=fadeIn)
 
-[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Strategy+Architect+%E2%94%82+Venture+Builder+%E2%94%82+AI+Pragmatist)](https://git.io/typing-svg)
+[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Strategy+Architect+%E2%94%82+Venture+Builder+%E2%94%82+AI+Pragmatist)](https://git.io/typing-svg)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
